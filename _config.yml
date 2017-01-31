@@ -1,0 +1,4 @@
+name: priemastrologa.ru
+sass:
+    sass_dir: assets/_scss
+    style: compressed
